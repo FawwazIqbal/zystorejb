@@ -1,0 +1,54 @@
+[
+  {
+    "id": "mlbb021",
+    "name": "Account Glory 72",
+    "price": 240,
+    "discount": 20,
+    "image": "https://media.discordapp.net/attachments/1307633288642297906/1458751013233102858/acc2.jpg?ex=6960c73f&is=695f75bf&hm=7f7c27cfd4a4fc12c2fd9801c444e2b752ceeec318bb63df7f0ed5337c24e9df&=&format=webp&width=684&height=684",
+    "description": "ZYML: 021, HANYA DEAL DENGAN NOMBOR BUTTON DIBAWAH!!",
+    "features": [
+      "Jumlah semua skin 382",
+      "Safe & Clear-Bind",
+      "Full hero 100%",
+      "Emblem lengkap 100%",
+      "Terserta skin Sasuke!",
+      "Angkut cepat sementara ada diskaun!"
+    ],
+    "soldOut": false
+  },
+  {
+    "id": "mlbb022",
+    "name": "Account Glory 64",
+    "price": 310,
+    "discount": 10,
+    "image": "https://media.discordapp.net/attachments/1307633288642297906/1458751013967237130/acc3.jpg?ex=6960c740&is=695f75c0&hm=37e9fec4fa4d7a226088913076e70fd885c1460d6932a25faabd84486ef25e65&=&format=webp&width=684&height=684",
+    "description": "ZYML: 022, HANYA DEAL DENGAN NOMBOR BUTTON DIBAWAH!!",
+    "features": [
+      "Jumlah semua skin 483",
+      "Safe & Clear-Bind",
+      "Full hero 100%",
+      "Emblem lengkap 100%",
+      "Terserta skin Chou KOF!",
+      "Angkut cepat sementara ada diskaun!"
+    ],
+    "soldOut": false
+  },
+  {
+    "id": "mlbb059",
+    "name": "Tank Specialist Bundle",
+    "price": 400,
+    "discount": 10,
+    "image": "https://media.discordapp.net/attachments/1307633288642297906/1458751013967237130/acc3.jpg?ex=6960c740&is=695f75c0&hm=37e9fec4fa4d7a226088913076e70fd885c1460d6932a25faabd84486ef25e65&=&format=webp&width=684&height=684",
+    "description": "ZYML: 059",
+    "features": [
+      "Jumlah semua skin 502",
+      "Safe & Clear-Bind",
+      "Full hero 100%",
+      "Emblem lengkap 100%",
+      "Terserta skin YSS Collector!",
+      "Angkut cepat sementara ada diskaun!"
+    ],
+    "soldOut": true
+  }
+  
+]
