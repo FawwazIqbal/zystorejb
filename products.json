@@ -1,0 +1,41 @@
+{
+  "config": {
+    "storeName": "Eagle Store",
+    "tagline": "Pasaran akaun MLBB yang dipercayai di Malaysia",
+    "whatsappNumber": "601165266140",
+    "whatsappDisplay": "+60 11-6526 6140"
+  },
+  "products": [
+    {
+      "id": "eg-001",
+      "name": "Account Immortal 111",
+      "rank": "Mythical Glory",
+      "price": "RM 250",
+      "server": "Malaysia / Asia",
+      "skinCount": 409,
+      "heroCount": 133,
+      "badge": "Tawaran Hangat",
+      "sold": false,
+      "description": "Account permintaan sangat tinggi, jangan tinggal masa.. Angkut sekarang!",
+      "images": [
+        "https://media.discordapp.net/attachments/825998603977621518/1535987743912362055/WhatsApp_Image_2026-08-09_at_7.57.14_PM.jpeg?ex=6a79c38f&is=6a78720f&hm=31a5b99dd7526b0ebe74a57dd928f1713ea9826169610ed1d8c8038859d7ebfd&=&format=webp",
+        "https://media.discordapp.net/attachments/825998603977621518/1535987744323670087/WhatsApp_Image_2026-08-09_at_7.57.16_PM.jpeg?ex=6a79c38f&is=6a78720f&hm=1cee5a12b626e76c9a5d8d06e77af6803dd85fd15a8c32f856f453fc2b263867&=&format=webp"
+      ]
+    },
+    {
+      "id": "eg-002",
+      "name": "Account Glory 94",
+      "rank": "Mythic",
+      "price": "RM 340",
+      "server": "Malaysia / Asia",
+      "skinCount": 399,
+      "heroCount": 127,
+      "badge": "Paling Laris",
+      "sold": true,
+      "description": "Pilihan jimat untuk pemain yang nak skip grinding awal. Selesa di rank Mythic dengan hero pool yang kukuh dan beberapa skin Epic.",
+      "images": [
+        "https://media.discordapp.net/attachments/825998603977621518/1535987744654888970/WhatsApp_Image_2026-08-09_at_8.00.40_PM.jpeg?ex=6a79c38f&is=6a78720f&hm=f47a8061d6d8565032c4583467c7944ab7e0bfb676c7adddbb090b7729dd8204&=&format=webp&width=409&height=512"
+      ]
+    }
+  ]
+}
